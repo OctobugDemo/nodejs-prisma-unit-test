@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-prisma-unit-test",
+  "version": "1.0.0",
+  "description": "The missing demo of unit testing Prisma for nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OctobugDemo/nodejs-prisma-unit-test.git"
+  },
+  "keywords": [
+    "nodejs",
+    "prisma",
+    "unit-test"
+  ],
+  "author": "Octobug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OctobugDemo/nodejs-prisma-unit-test/issues"
+  },
+  "homepage": "https://github.com/OctobugDemo/nodejs-prisma-unit-test#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.4",
+    "eslint-plugin-promise": "^6.0.0",
+    "prettier": "^2.7.1"
+  }
+}
